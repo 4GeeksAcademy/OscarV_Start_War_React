@@ -1,0 +1,21 @@
+.box{
+    gap: 50px; /* Espacio entre las tarjetas */
+}
+
+
+
+
+.card{
+
+    margin: 20px;
+}
+
+.my-12 {
+    color: red;
+    
+}
+
+.table {
+    color: red;
+  }
+  
